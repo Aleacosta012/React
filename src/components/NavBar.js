@@ -10,7 +10,7 @@ const NavBar = () =>{
                 <div className="column is-1"><button>Vodka</button></div>
                 <div className="column is-1 "><button>Ron</button></div>
             
-            <CartWidget/> 0
+            <CartWidget/> 0.
                 
             </div>
 
